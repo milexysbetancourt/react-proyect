@@ -1,0 +1,16 @@
+.idea
+.vscode
+
+*.log
+.DS_STORE
+/.eslintcache
+/.next
+/.nyc_output
+/coverage
+/docs/export
+/test/regressions/screenshots
+/test/selenium-output
+/tmp
+dist
+node_modules
+package-lock.json
