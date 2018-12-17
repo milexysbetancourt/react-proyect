@@ -13,7 +13,7 @@
     border:none;
     outline: 0;
     transition: .2s;
-    box-shadow: 2px2px5pxrgba(0,0,0,.2);
+    box-shadow: 2px 2px 5px rgba(0,0,0,.2);
 }
 
 .Search-input:focus {
