@@ -8,7 +8,8 @@ class Home extends Component {
         return (
             <HomeLayout>
                 <Related />
-               <Categories categories={this.props.data.categories}/>
+                <Categories categories={this.props.data.categories}/>
+                
             </HomeLayout>   
         )
     }
