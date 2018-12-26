@@ -1,5 +1,5 @@
 import React from 'react';
-import VolumenIcon from '../../icons/components/play';
+import VolumenIcon from '../../icons/components/volume';
 import './volume.css';
 
 function Volume(props) {
